@@ -1,6 +1,8 @@
-@import url(../fonts/bentonsans.css);
+@charset "UTF-8";
 
-@import url(../fonts/proxima-nova.css);
+@import url("../fonts/bentonsans.css");
+
+@import url("../fonts/proxima-nova.css");
 
 * {
   box-sizing: border-box; }
