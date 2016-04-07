@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Benton Sans";
+    src: url("bentonsans-regular.eot");
+    src: url("bentonsans-regular.eot?#iefix") format("embedded-opentype"), url("bentonsans-regular.woff") format("woff");
+    font-style: normal;
+    font-weight: normal
+}
+
+@font-face {
+    font-family: "Benton Sans";
+    src: url("bentonsans-bold.eot");
+    src: url("bentonsans-bold.eot?#iefix") format("embedded-opentype"), url("bentonsans-bold.woff") format("woff");
+    font-style: normal;
+    font-weight: bold
+}
