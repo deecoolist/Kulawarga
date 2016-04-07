@@ -60,6 +60,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
+  font-family: "proxima-nova";
   color: #fff;
   text-align: center;
   background-color: #159957;
