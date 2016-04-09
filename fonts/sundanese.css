@@ -4,6 +4,7 @@
     font-family: 'Sundanese';
     src: url('sundanese.eot');
     src: url('sundanese.eot?#iefix') format('embedded-opentype'),
+         url('sundanese.woff') format('woff'),
          url('sundanese.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
