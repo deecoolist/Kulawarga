@@ -17,13 +17,13 @@
 }
 
 @font-face {
-    font-family: "Benton Sans";
+    font-family: "Benton Sans Light";
     src: url("BentonSans-Light.eot");
     src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype");
     src: url("BentonSans-Light.woff") format("woff");
     src: url("BentonSans-Light.woff2") format("woff2");
     src: url("BentonSans-Light.ttf") format("ttf");
     src: url("BentonSans-Light.otf") format("otf");
-    font-style: light;
+    font-style: normal;
     font-weight: normal
 }
