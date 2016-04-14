@@ -19,12 +19,11 @@
 @font-face {
     font-family: "Benton Sans Light";
     src: url("BentonSans-Light.eot");
-    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"), url("BentonSans-Light.woff") format("woff");
-/*
-    src: url("BentonSans-Light.woff2") format("woff2");
-    src: url("BentonSans-Light.ttf") format("ttf");
-    src: url("BentonSans-Light.otf") format("otf");
-*/
+    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"),
+         url("BentonSans-Light.woff") format("woff"),
+         url("BentonSans-Light.woff2") format("woff2"),
+         url("BentonSans-Light.ttf") format("ttf"),
+         url("BentonSans-Light.otf") format("otf");
     font-style: normal;
     font-weight: 100
 }
@@ -32,7 +31,11 @@
 @font-face {
     font-family: "Benton Sans Light";
     src: url("BentonSans-Light.eot");
-    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"), url("BentonSans-Light.woff") format("woff");
+    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"),
+         url("BentonSans-Light.woff") format("woff"),
+         url("BentonSans-Light.woff2") format("woff2"),
+         url("BentonSans-Light.ttf") format("ttf"),
+         url("BentonSans-Light.otf") format("otf");
     font-style: normal;
     font-weight: 200
 }
@@ -40,7 +43,11 @@
 @font-face {
     font-family: "Benton Sans Light";
     src: url("BentonSans-Light.eot");
-    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"), url("BentonSans-Light.woff") format("woff");
+    src: url("BentonSans-Light.eot?#iefix") format("embedded-opentype"),
+         url("BentonSans-Light.woff") format("woff"),
+         url("BentonSans-Light.woff2") format("woff2"),
+         url("BentonSans-Light.ttf") format("ttf"),
+         url("BentonSans-Light.otf") format("otf");
     font-style: normal;
     font-weight: 300
 }
