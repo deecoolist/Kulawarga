@@ -24,6 +24,6 @@
     src: url("BentonSans-Light.woff2") format("woff2");
     src: url("BentonSans-Light.ttf") format("ttf");
     src: url("BentonSans-Light.otf") format("otf");
-    font-style: normal;
-    font-weight: light
+    font-style: light;
+    font-weight: normal
 }
