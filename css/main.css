@@ -362,3 +362,9 @@ h5, h6          { font-weight: bolder }
     left: 50%;
     margin-left: -3px;
 }
+
+.logo {
+    margin: 0;
+    margin-bottom: -80px;
+    padding: 0;
+}
